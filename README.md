@@ -1,8 +1,8 @@
 ## Hi there 👋 It's me shivaram
 
 ## Who I am
-- I'm a software engineer passionate about building practical solutions that solve real-world business problems. 
-- I enjoy turning ideas into reliable applications, exploring new technologies, and continuously learning to build software that makes a meaningful impact.
+I'm a software engineer passionate about building practical solutions that solve real-world business problems. 
+I enjoy turning ideas into reliable applications, exploring new technologies, and continuously learning to build software that makes a meaningful impact.
 
 - 🔭 I’m currently working on [QR Scanner](https://qr-scanner-9mqc.onrender.com/).
 - 🌱 I’m currently learning Agentic AI
