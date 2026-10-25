@@ -11,7 +11,7 @@
 
 ### I use to code
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/> <img width="48" height="48" src="https://img.icons8.com/color/48/supabase.png" alt="supabase"/> <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-docker-a-set-of-coupled-software-as-a-service-logo-shadow-tal-revivo.png" alt="external-docker-a-set-of-coupled-software-as-a-service-logo-shadow-tal-revivo"/> <img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/> <img width="48" height="48" src="https://img.icons8.com/color/48/supabase.png" alt="supabase"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/> <img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
   
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
