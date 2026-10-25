@@ -9,8 +9,8 @@ I enjoy turning ideas into reliable applications, exploring new technologies, an
 - 👯 I’m looking to collaborate on ML/AI
 - 🤔 I’m looking for help with **solve business problem with AI**
 - 💬 Ask me about Tech
-- 📫 How to reach me:
-  <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/> [Linkedin](www.linkedin.com/in/sivaramanvel)
+- 📫 How to reach me:<br>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/> [Linkedin](www.linkedin.com/in/sivaramanvel)<br>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/> sivaraman11velmurugan@gmail.com
 
 ### I code in
