@@ -7,7 +7,7 @@ I enjoy turning ideas into reliable applications, exploring new technologies, an
 - 🔭 I’m currently working on [QR Scanner](https://qr-scanner-9mqc.onrender.com/).
 - 🌱 I’m currently learning Agentic AI
 - 👯 I’m looking to collaborate on ML/AI
-- 🤔 I’m looking for help with solve business problem with AI
+- 🤔 I’m looking for help with **solve business problem with AI**
 - 💬 Ask me about Tech
 - 📫 How to reach me:
 
