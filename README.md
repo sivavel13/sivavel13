@@ -10,8 +10,8 @@ I enjoy turning ideas into reliable applications, exploring new technologies, an
 - 🤔 I’m looking for help with **solve business problem with AI**
 - 💬 Ask me about Tech
 - 📫 How to reach me:<br>
-  [<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](www.linkedin.com/in/sivaramanvel)<br>
-  [<img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/>](www.sivaraman11velmurugan@gmail.com)
+  [Linkedin](www.linkedin.com/in/sivaramanvel)<br>
+  [Gmail](www.sivaraman11velmurugan@gmail.com)
 
 ### I code in
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
