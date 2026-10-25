@@ -17,8 +17,8 @@
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/> <img width="50" height="50" src="https://img.icons8.com/ios/50/chatgpt.png" alt="chatgpt"/>
 
 ### Projects on Live Now
-<img width="48" height="48" src="https://img.icons8.com/emoji/48/house-emoji.png" alt="house-emoji"/> [House Price Prdediction](https://house-price-app-2-vojk.onrender.com/)
+[House Price Prdediction](https://house-price-app-2-vojk.onrender.com/)
 <br>
-<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo"/>[Django Study Material For Students](https://sivaraman.pythonanywhere.com/)
+[Django Study Material For Students](https://sivaraman.pythonanywhere.com/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
