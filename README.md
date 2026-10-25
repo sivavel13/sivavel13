@@ -18,6 +18,7 @@
 
 ### Projects on Live Now
 <img width="48" height="48" src="https://img.icons8.com/emoji/48/house-emoji.png" alt="house-emoji"/> [House Price Prdediction](https://house-price-app-2-vojk.onrender.com/)
+<br>
 <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo"/>[Django Study Material For Students](https://sivaraman.pythonanywhere.com/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
