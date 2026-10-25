@@ -10,7 +10,7 @@
 - 📫 How to reach me:
 
 ### I code in
-<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="36" height="36" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-green-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-green-tal-revivo"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/> <img width="48" height="48" src="https://img.icons8.com/color/48/supabase.png" alt="supabase"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/> <img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
 
 ### IDE and Tools I Use
