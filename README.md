@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me shivaram
 
-**sivavel13/sivavel13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who I am
 
 - 🔭 I’m currently working on [QR Scanner](https://qr-scanner-9mqc.onrender.com/).
 - 🌱 I’m currently learning Agentic AI
