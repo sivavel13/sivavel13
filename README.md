@@ -5,7 +5,7 @@ I'm a software engineer passionate about building practical solutions that solve
 I enjoy turning ideas into reliable applications, exploring new technologies, and continuously learning to build software that makes a meaningful impact.
 
 - 🔭 I’m currently working on [synaptiq](https://synaptiq-frontend-ppks.onrender.com/dashboard).
-- 🌱 I’m currently learning Agentic AI
+- 🌱 I’m currently learning LangGraph
 - 👯 I’m looking to collaborate on ML/AI
 - 🤔 I’m looking for help with **solve business problem with AI**
 - 💬 Ask me about Tech
